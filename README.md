@@ -1,6 +1,6 @@
-# Python Learning Exercises
+# Python Learning Notes
 
-一个面向 Python 零基础学习者的练习仓库，记录基础语法、字符串格式化和小程序练习。
+个人 Python 学习记录：基础语法、字符串格式化和小程序练习。
 
 ## 当前进度
 
@@ -12,13 +12,11 @@
 
 ```text
 .
-├─ exercises/
-│  ├─ 01_name_card.py
-│  └─ 02_receipt.py
-├─ notes/
-│  └─ 16-string-formatting.md
-├─ docs/
-│  └─ learning-log.md
+├─ 练习项目Practice Project/
+│  └─ 2026.11.16/
+│     ├─ docs/
+│     ├─ exercises/
+│     └─ notes/
 ├─ .gitignore
 ├─ .editorconfig
 └─ LICENSE
@@ -27,8 +25,8 @@
 ## 运行方法
 
 ```bash
-python exercises/01_name_card.py
-python exercises/02_receipt.py
+python "练习项目Practice Project/2026.11.16/exercises/01_name_card.py"
+python "练习项目Practice Project/2026.11.16/exercises/02_receipt.py"
 ```
 
 ## 知识点
@@ -42,5 +40,5 @@ python exercises/02_receipt.py
 ## 说明
 
 - 仅使用 Python 标准库
-- 代码中的姓名、商品和价格都是示例数据
-- 不包含个人身份信息、账号信息或本地配置
+- 代码中的姓名、年龄、城市、商品和价格都是示例数据
+- 不包含真实姓名、身份、联系方式或其他个人信息
