@@ -1,6 +1,6 @@
 # 个人名片
-name = "小明"
-age = 18
+name = "示例用户"
+age = 20
 city = "示例城市"
 score = 95.5
 
